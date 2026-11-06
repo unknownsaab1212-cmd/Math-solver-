@@ -1,0 +1,6 @@
+{
+  "name": "Math Solver",
+  "description": "Step-by-step AI math question solver with camera scanning, formulas, graphing, and clear explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
